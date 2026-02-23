@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["UdentifyCoreModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.udentifycore.UdentifyCoreModule"]
+  }
+}

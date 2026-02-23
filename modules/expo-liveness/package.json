@@ -1,0 +1,32 @@
+{
+  "name": "expo-liveness",
+  "version": "1.0.0",
+  "description": "Expo module for face liveness detection and recognition using Udentify SDK",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "expo",
+    "expo-module",
+    "liveness",
+    "face-recognition",
+    "biometric",
+    "face-authentication",
+    "udentify"
+  ],
+  "author": "Fraud.com",
+  "license": "MIT",
+  "dependencies": {
+    "udentify-core": "^25.3.0"
+  },
+  "devDependencies": {
+    "expo-modules-core": "*"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "expo-modules-core": "*"
+  }
+}
+
+

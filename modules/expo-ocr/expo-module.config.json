@@ -1,0 +1,10 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoOCRModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.ocr.ExpoOCRModule"]
+  }
+}
+

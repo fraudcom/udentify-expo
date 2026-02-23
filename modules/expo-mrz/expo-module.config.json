@@ -1,0 +1,10 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["ExpoMRZModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.mrz.ExpoMRZModule"]
+  }
+}
+

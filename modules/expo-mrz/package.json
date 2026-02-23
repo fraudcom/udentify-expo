@@ -1,0 +1,31 @@
+{
+  "name": "expo-mrz",
+  "version": "1.0.0",
+  "description": "Expo module for MRZ (Machine Readable Zone) scanning using Udentify SDK",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "expo",
+    "expo-module",
+    "mrz",
+    "machine-readable-zone",
+    "document-scanning",
+    "passport-scanner",
+    "id-card-scanner"
+  ],
+  "author": "Fraud.com",
+  "license": "MIT",
+  "dependencies": {
+    "udentify-core": "^25.3.0"
+  },
+  "devDependencies": {
+    "expo-modules-core": "*"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "expo-modules-core": "*"
+  }
+}
+

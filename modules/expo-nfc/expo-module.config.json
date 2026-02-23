@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoNFCModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.nfc.ExpoNFCModule"]
+  }
+}

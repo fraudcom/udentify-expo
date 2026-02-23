@@ -1,0 +1,11 @@
+{
+  "platforms": ["android", "ios"],
+  "android": {
+    "modules": ["expo.modules.liveness.ExpoLivenessModule"]
+  },
+  "ios": {
+    "modules": ["ExpoLivenessModule"]
+  }
+}
+
+
